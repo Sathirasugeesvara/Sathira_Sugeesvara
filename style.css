@@ -51,8 +51,8 @@ body {
   box-shadow: 0 0 35px var(--primary);
 }
 .profile-img {
-  width: 180px;
-  height: 180px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   box-shadow: 0 0 20px var(--primary);
   transition: 0.3s;
@@ -122,11 +122,11 @@ hr {
   text-transform: uppercase;
   font-weight: bold;
 }
-.al-badge {
+.exp-badge {
   background-color: #ff6b6b;
   box-shadow: 0 0 10px #ff6b6b, 0 0 20px #ff6b6b, 0 0 30px #ff6b6b;
 }
-.ol-badge {
+.edu-badge {
   background-color: #1e90ff;
   box-shadow: 0 0 10px #1e90ff, 0 0 20px #1e90ff, 0 0 30px #1e90ff;
 }
@@ -294,6 +294,3 @@ footer .socialicons a:hover {
         text-shadow: 0 0 15px #00BFFF, 0 0 30px #00BFFF;
     }
 }
-
-
-
